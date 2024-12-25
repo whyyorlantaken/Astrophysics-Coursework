@@ -3,4 +3,6 @@ This repository contains my solutions for homework problems about stars (Hertzsp
 
 **Note:** MAY stands for my name.
 
+![](./Data/hr_diagram.png)
+
 The course material can be found [here](https://github.com/helgadenes/Astrophysics_yachay).
