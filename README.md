@@ -4,7 +4,7 @@ This repository contains my solutions for homework problems about stars (Hertzsp
 **Note:** MAY stands for my name.
 
 <p align="center">
-  <img src="./Data/hr_diagram.png" width = "50%">
+  <img src="./Data/hr_diagram.png" width = "60%">
 </p>
 
 The course material can be found [here](https://github.com/helgadenes/Astrophysics_yachay).
