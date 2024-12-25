@@ -3,6 +3,7 @@ This repository contains my solutions for homework problems about stars (Hertzsp
 
 **Note:** MAY stands for my name.
 
+I love this HR diagram from homework 1 :).
 <p align="center">
   <img src="./Data/hr_diagram.png" width = "60%">
 </p>
